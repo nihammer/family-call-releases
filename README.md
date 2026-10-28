@@ -2,7 +2,7 @@
 
 **Dành cho người cài máy.** Làm theo thứ tự, mỗi máy khoảng 15–20 phút. Nếu kẹt ở bước nào, chụp màn hình gửi cho kỹ thuật viên.
 
-Phiên bản app hiện tại: **0.4.7**
+Phiên bản app hiện tại: **0.4.8**
 
 ## Chuẩn bị
 
@@ -84,7 +84,7 @@ Bật Wi‑Fi cho máy (hoặc dùng 4G của SIM). Vào quản trị → **Thi�
 
 Repo này chỉ chứa file phát hành; mã nguồn ở repo riêng.
 
-- `FamilyCall.apk`: trang cài máy và nút "Kiểm tra bản mới" tải file này (versionCode 11).
+- `FamilyCall.apk`: trang cài máy và nút "Kiểm tra bản mới" tải file này (versionCode 12).
 - `update.json`: phiên bản và SHA-256 của file APK, app đọc khi kiểm tra bản mới.
 - `cai-may/`: trang cài máy một nút (GitHub Pages), cài app và đặt làm Device Owner qua WebUSB.
 
